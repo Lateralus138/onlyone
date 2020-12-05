@@ -1,0 +1,9 @@
+Package: onlyone        
+Version: 1.0.0.0             
+Section: Utilities             
+Priority: optional             
+Architecture: amd64             
+Essential: no             
+Installed-Size: 4813             
+Maintainer: https://github.com/Lateralus138/onlyone             
+Description: Print unique lines from a file. Similar to using something like '|sort|uniq', but without sorting.           
