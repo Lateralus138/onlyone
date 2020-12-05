@@ -1,0 +1,24 @@
+
+ Print unique lines.
+ E.g. onlyone /path/to/file 
+
+ @USAGE:
+	onlyone FILE...
+	onlyone [OPTIONS...]...
+	onlyone [OPTIONS...]... FILE...
+
+ @FILE:
+	File		Any file to read.
+
+ @OPTIONS:
+	-h,--help	This HELP message.
+
+ @ERRORS: Integers - Exit Codes.
+	0		No errors.
+	1		No parameters passed.
+	2		No valid file passed.
+	3		Path does not exist.
+	4		Could not read file.
+	5		No lines in file.
+	6		Error while reading line.
+
