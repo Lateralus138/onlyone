@@ -2,6 +2,15 @@
 
 <img alt="LOGO" src='./docs/media/logo/onlyone.png' width="192">
 
+---
+
+<details>
+<summary><b>Note</b>: <i>New Version</i></summary>
+This is being re-written in C++ in a new feature (<i>switch</i>) for <i>case insensitivity</i> and the ability to read <i>piped stdin</i> or from <i>passed arguments</i>. <b>Coming soon</b>.
+</details>
+
+---
+
 <a class="twitter-share-button"
   href="https://twitter.com/share?ref_src=twsrc%5Etfw&text='OnlyOne'%20-%20Print%20unique%20lines%20to%20a%20console.%0ACross-platform%20for%20%23Windows%2C%20%23Linux%2C%20and%20%23MacOs%20written%20in%20%23RustLang%0A%23Programming%20%23Coding%20via%20%40thefluxapex">![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FLateralus138%2Fonlyone)</a> this project.
 
