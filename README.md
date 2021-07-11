@@ -6,8 +6,15 @@
 
 <details>
 <summary><b>Note</b>: <i>New Version</i></summary>
-This is being re-written in C++ in a new feature (<i>switch</i>) for <i>case insensitivity</i> and the ability to read <i>piped stdin</i> or from <i>passed arguments</i>. <b>Coming soon</b>.
+
+This project is now redundant as it's been replaced by a 2nd version. You can still use this if you like, but the recommended version where you'll find more support will be the 2nd version.
+
+This has been re-written in C++ with a new feature (<i>switch</i>) for <i>case insensitivity</i> and the ability to read <i>piped stdin</i> or from <i>passed arguments</i>.
 </details>
+
+**New Version**
+
+[https://github.com/Lateralus138/onlyonev2](https://github.com/Lateralus138/onlyonev2)
 
 ---
 
